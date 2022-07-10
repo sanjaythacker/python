@@ -25,13 +25,11 @@
 
 def reformatIP(unclickableIP):
 
-    # The solution travels the IP character by character
-    # reconstructs the IP without any non-IP characters.
-    # Valid IP characters are numbers and the period "."
-    # character. Every other character is non-IP character
-    # and needs to be removed to create the original IP address.
-
-    # NOTE - this solution does not check if the numeric values are valid
+    # The solution travels the IP address character by character and
+    # reconstructs the IP without any non-IP characters that are found.
+    # Valid IP characters are numbers and the period "." character.
+    # Every other character is non-IP character and needs to be removed
+    # to create the original IP address.
 
     # Iterate through the unclickableIP string and check each character
     originalIP = ''  # storage of originalIP which is built back
@@ -88,3 +86,10 @@ print(f'Test 4 - original IP was: ', reformattedIP)
 storedIP = '$56.20.%]92.[235'
 reformattedIP = reformatIP(storedIP)
 print(f'Test 5 - original IP was: ', reformattedIP)
+
+# Results of the above 5 Tests should be:
+# Test 1 - original IP was:  123.123.123.123
+# Test 2 - original IP was:  Invalid Original IP
+# Test 3 - original IP was:  25.147.215.38
+# Test 4 - original IP was:  Invalid Original IP
+# Test 5 - original IP was:  56.20.92.235
