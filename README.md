@@ -1,7 +1,7 @@
 python_code_examples
 
 I have created these code examples to provide my solutions for learners like me.
-I have provided comments to help you to understand the logic of the solutions.
+I have provided comments to help you understand the logic of the solutions.
 Lastly, I have provided test cases that I have used to test and confirm the solution.
 
 Feedback welcome and appreciated.
