@@ -1,4 +1,4 @@
-# python_code_examples
+**# python_code_examples
 #
 # I have created these code examples to provide my solutions to those learners like me.
 # I have provided comments to help you to understand the logic of the solutions.
@@ -11,4 +11,4 @@
 # Your use case will be evaluated, and if found valid for the particular solution, then your feedback will be 
 # incorporated.
 
-# Thank you for any and all feedback that you provide to improve or correct a solution.
+# Thank you for any and all feedback that you provide to improve or correct a solution.**
