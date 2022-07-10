@@ -12,4 +12,4 @@ If you are submitting feedback to correct a solution, please provide the use cas
 Your use case will be evaluated, and if found valid for the particular solution, then your feedback will be 
 incorporated.
 
-Thank you for any and all feedback that you provide to improve or correct a solution.
+Thank you!
